@@ -1,4 +1,5 @@
 `timescale 1ns/1ns
+
 module full_adder (a, b, c,carry,sum);
     input a;
     input b;

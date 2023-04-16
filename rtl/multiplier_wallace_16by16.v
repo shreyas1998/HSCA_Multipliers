@@ -1,4 +1,5 @@
 `timescale 1ns / 1ns
+
 module fa (a, b, cin, sum, cout);
     input a;
     input b;

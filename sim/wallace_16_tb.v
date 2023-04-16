@@ -1,5 +1,5 @@
 `timescale 1ns / 1ns
-`include "multiplier_wallace_16by16.v"
+`include "./rtl/multiplier_wallace_16by16.v"
 
 module wallace_16_tb;
     reg [15:0] in1_,in2_;

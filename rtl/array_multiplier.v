@@ -1,25 +1,4 @@
 `timescale 1ns / 1ns
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 04/07/2023 01:28:15 PM
-// Design Name: 
-// Module Name: array
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-//////////////////////////////////////////////////////////////////////////////////
-
-
 module array_multiplier(a, b, sum);
 
 // Modify for 8x8, 16x16 etc.

@@ -1,5 +1,5 @@
 `timescale 1ns/1ns
-`include "dadda_8.v"
+`include "./rtl/dadda_8.v"
 
 module dadda_8_tb;
     reg [7:0] in1_,in2_;

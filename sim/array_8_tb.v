@@ -1,5 +1,5 @@
 `timescale 1ns/1ns
-`include "array_multiplier.v"
+`include "./rtl/array_multiplier.v"
 
 module array_8_tb;
     reg [7:0] in1_,in2_;

@@ -1,5 +1,5 @@
 `timescale 1ns/1ns
-`include "multiplier_wallace_8by8.v"
+`include "./rtl/multiplier_wallace_8by8.v"
 
 module wallace_8_tb;
     reg [7:0] in1_,in2_;
