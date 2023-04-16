@@ -1,5 +1,5 @@
 # HSCA_Multipliers
-FPGA implementation of 8*8 and 16*16 Wallace, Dadda, Array for High Speed Computer Arithmetic.
+FPGA implementation of 8x8 and 16x16 Wallace, Dadda, Array for High Speed Computer Arithmetic (Spring 23, UT Austin)
 
 # Collaborators
 
@@ -19,5 +19,7 @@ vcd dadda_8_tb.vcd
 ```
 
 Note- Inorder to simulate the array multiplier, one needs to make sure the parameter 'n' is correctly modified to simulate the 8*8 and 16*16 variants. For the other multipliers these are stored as 2 seperate code variants.
+
+The dot_diagrams directory has 2 Msft Excel files which describes the dot diagrams for the Wallace and Dadda Multipliers.
 
 
